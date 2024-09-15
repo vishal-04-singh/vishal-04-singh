@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>VISHAL SINGH </h1>
-I'm currently BCA graduate<br><br>📫 How to reach me Connectvishalsingh27@gmail.com<br><br>💻 Looking to collaborate on exciting projects in AI, software development.<br><br>⚽️ My First Love and second 💻<br><br>🎮 I'm a Passionate Mobile Gamer Mostly interested in MERN Stack and DSA<br>
+I'm currently BCA graduate<br><br>📫 How to reach me Connectvishalsingh27@gmail.com<br><br>💻 Looking to collaborate on exciting projects in AI, software development.<br><br>⚽️ My First ❤️ and Second 💻<br><br>🎮 I'm a Passionate Mobile Gamer Mostly interested in MERN Stack and DSA<br>
 
 
 ## 🌐 Socials:
