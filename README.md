@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI, software development**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at <a href="[https://linkedin.com/in/https://www.linkedin.com/in/vishal-04-singh/](https://github.com/vishal-04-singh)" target="blank">Github</>
 
 - 💬 Ask me about **Any thing**
 
