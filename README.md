@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **New things**
 
-- 👯 I’m looking to collaborate on **AI, software development**
+- 👯 I’m looking to collaborate on **AI, software development and  more**
 
 - 👨‍💻 All of my projects are available at Github
 
