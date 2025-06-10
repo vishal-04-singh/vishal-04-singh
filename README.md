@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Connectvishalsingh27@gmail.com**
 
-<a herf="vishal04singh.site" target="blank">Portfolio</a>
+<p><a herf="vishal04singh.site" target="blank">Portfolio</a>Portfolio</p>
 
 
 <h3 align="left">Connect with me:</h3>
