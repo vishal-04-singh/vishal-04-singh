@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **New things**
 
-- 👯 I’m looking to collaborate on **AI, software development**
+- 👯 I’m looking to collaborate on **Fullstack Projects, software development**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
