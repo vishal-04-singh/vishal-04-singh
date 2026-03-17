@@ -173,39 +173,7 @@ const vishal = {
   </picture>
 </div>
 
-> ⚠️ **Snake not showing?** Create this file in your repo: `vishal-04-singh/snake.yml` — see instructions below ⬇️
 
-<details>
-<summary>📋 Click here to setup Snake Animation</summary>
-
-Create a file at `snake.yml` in your `vishal-04-singh` repo with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: vishal-04-singh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 Then go to **Actions tab → Enable workflows → Run workflow** manually once.
 
