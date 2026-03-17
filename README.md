@@ -26,10 +26,9 @@
 
 ---
 
-<!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 ```javascript
 const vishal = {
@@ -58,7 +57,6 @@ const vishal = {
 
 ---
 
-<!-- SKILLS -->
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -97,7 +95,6 @@ const vishal = {
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,36 +103,43 @@ const vishal = {
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=donut&theme=tokyonight&border_radius=10&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=donut&theme=tokyonight&border_radius=10&langs_count=8" />
 </div>
 
 <br/>
 
 ---
 
-<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-04-singh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-04-singh&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-04-singh&theme=tokyo-night&hide_border=false&border_radius=10&area=true&area_color=00BFFF" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-04-singh&theme=tokyo-night&hide_border=false&border_radius=10&area=true" />
 </div>
 
 <br/>
 
 ---
 
-<!-- CODING PROFILES -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/vishal-04-singh/vishal-04-singh/blob/main/snake.yml" alt="Snake animation" />
+</div>
+
+<br/>
+
+---
+
 ## 🧩 Coding Profiles
 
 <div align="center">
@@ -150,7 +154,6 @@ const vishal = {
 
 ---
 
-<!-- CONNECT -->
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -166,34 +169,19 @@ const vishal = {
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
-
-### 💬 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-## 🐍 My Contributions
+## 💬 Quote of the Day
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishal-04-singh/vishal-04-singh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ### 🌟 *"An avid learner with a passion for continuous growth and exploration."*
-
-<br/>
 
 **⭐ If you like my work, consider starring my repositories! ⭐**
 
