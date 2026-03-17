@@ -173,12 +173,12 @@ const vishal = {
   </picture>
 </div>
 
-> ⚠️ **Snake not showing?** Create this file in your repo: `.github/workflows/snake.yml` — see instructions below ⬇️
+> ⚠️ **Snake not showing?** Create this file in your repo: `vishal-04-singh/snake.yml` — see instructions below ⬇️
 
 <details>
 <summary>📋 Click here to setup Snake Animation</summary>
 
-Create a file at `.github/workflows/snake.yml` in your `vishal-04-singh` repo with this content:
+Create a file at `snake.yml` in your `vishal-04-singh` repo with this content:
 
 ```yaml
 name: Generate Snake Animation
