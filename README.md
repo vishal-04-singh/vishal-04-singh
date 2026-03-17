@@ -3,21 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0077B5,100:00BFFF&height=250&section=header&text=Vishal%20Singh&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast%20⚡&descAlignY=62&descSize=16&animation=twinkling" />
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (FIXED) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hey+There!+I'm+Vishal+Singh;💻+Full+Stack+Developer;🚀+Always+Learning+%26+Building;☕+Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=👋+Hey+There!+I'm+Vishal+Singh;💻+Full+Stack+Developer;🚀+Always+Learning+%26+Building;☕+Turning+Coffee+into+Code" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- BADGES -->
+<!-- BADGES (FIXED FOLLOWERS) -->
 <div align="center">
-  <a href="https://github.com/vishal-04-singh">
-    <img src="https://komarev.com/ghpvc/?username=vishal-04-singh&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vishal-04-singh?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishal-04-singh?label=👥%20Followers&style=for-the-badge&color=0077B5" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vishal-04-singh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vishal-04-singh?style=for-the-badge&color=0077B5&labelColor=000000&label=Followers&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-FF9933?style=for-the-badge" />
 </div>
@@ -28,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```javascript
 const vishal = {
@@ -103,7 +99,7 @@ const vishal = {
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=donut&theme=tokyonight&border_radius=10&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=donut&theme=tokyonight&border_radius=10&langs_count=8" />
 </div>
 
 <br/>
@@ -130,16 +126,6 @@ const vishal = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/vishal-04-singh/vishal-04-singh/blob/main/snake.yml" alt="Snake animation" />
-</div>
-
-<br/>
-
----
-
 ## 🧩 Coding Profiles
 
 <div align="center">
@@ -149,8 +135,6 @@ const vishal = {
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27349756/vishal-singh)
 
 </div>
-
-<br/>
 
 ---
 
@@ -179,12 +163,64 @@ const vishal = {
 
 ---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-04-singh/vishal-04-singh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-04-singh/vishal-04-singh/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vishal-04-singh/vishal-04-singh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Snake not showing?** Create this file in your repo: `.github/workflows/snake.yml` — see instructions below ⬇️
+
+<details>
+<summary>📋 Click here to setup Snake Animation</summary>
+
+Create a file at `.github/workflows/snake.yml` in your `vishal-04-singh` repo with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: vishal-04-singh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions tab → Enable workflows → Run workflow** manually once.
+
+</details>
+
+<br/>
+
+---
+
 <div align="center">
 
 ### 🌟 *"An avid learner with a passion for continuous growth and exploration."*
 
 **⭐ If you like my work, consider starring my repositories! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077B5&height=130&section=footer&fontSize=20&fontColor=ffffff&desc=Thanks%20for%20visiting!%20Have%20a%20great%20day%20👋&descAlignY=65&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077B5&height=130&section=footer&fontColor=ffffff&desc=Thanks%20for%20visiting!%20Have%20a%20great%20day%20👋&descAlignY=65&descSize=14" />
 
 </div>
