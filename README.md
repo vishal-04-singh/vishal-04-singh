@@ -174,9 +174,6 @@ const vishal = {
 </div>
 
 
-
-Then go to **Actions tab → Enable workflows → Run workflow** manually once.
-
 </details>
 
 <br/>
