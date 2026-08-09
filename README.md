@@ -1,5 +1,4 @@
-
-readme_content = '''<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MCA%20%E2%80%94%20AI%20%26%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&fontAlign=50"/>
@@ -201,23 +200,19 @@ me.say_hello()
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-04-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 
 <br><br>
 
-<!-- GitHub Streak -->
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-04-singh&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=FF6F00&currStreakNum=6C63FF&sideNums=6C63FF" alt="GitHub Streak"/>
 
 <br><br>
 
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=vishal-04-singh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 <br><br>
 
-<!-- Contribution Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-04-singh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
@@ -232,15 +227,6 @@ me.say_hello()
 | 🔍 **RAG Systems** | ██████░░░░ 60% | Building retrieval-augmented generation pipelines |
 | 🚀 **MLOps** | █████░░░░░ 50% | Deploying ML models to production |
 | 🐳 **Docker & Kubernetes** | ████░░░░░░ 40% | Containerization & orchestration |
-
----
-
-## 💡 Latest Blog Posts / Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- You can use github-readme-blog-post-workflow to auto-update this -->
-> 📝 *Coming soon! I'm working on technical articles about Computer Vision and LLM fine-tuning. Stay tuned!*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -273,7 +259,6 @@ me.say_hello()
 
 <br><br>
 
-<!-- Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Quote"/>
 
 </div>
@@ -282,7 +267,6 @@ me.say_hello()
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <br>
@@ -290,11 +274,3 @@ me.say_hello()
 **Thanks for visiting! Show some ❤️ by starring repositories you find useful!**
 
 </div>
-'''
-
-# Save to file
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README generated successfully!")
-print(f"Total characters: {len(readme_content)}")
