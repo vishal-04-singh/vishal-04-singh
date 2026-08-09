@@ -1,117 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗                 ║
+║    ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║                 ║
+║    ██║   ██║██║███████╗███████║███████║██║                 ║
+║    ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║                 ║
+║     ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗            ║
+║      ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝            ║
+║                                                              ║
+║              MCA · AI/ML · Full Stack Engineer              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-04-singh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectvishalsingh27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-04-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-04-singh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:connectvishalsingh27@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/vishal-04-singh?style=flat-square&color=7C3AED&label=followers)](https://github.com/vishal-04-singh)
 
 </div>
 
 ---
 
-### 👋 About Me
+```bash
+$ whoami
+```
 
-```python
-class Vishal:
-    def __init__(self):
-        self.name        = "Vishal Singh"
-        self.degree      = "MCA — AI & Machine Learning"
-        self.focus       = ["Deep Learning", "Computer Vision", "NLP / LLMs", "Full Stack AI"]
-        self.frameworks  = ["PyTorch", "Ultralytics YOLO", "HuggingFace", "FastAPI"]
-        self.currently   = "Building real-world AI projects with self-collected datasets"
-        self.goal        = "Ship production-ready AI systems"
+```
+> vishal-singh
+  ├── role        : MCA Student — AI & Machine Learning, UPES Dehradun
+  ├── focus       : Deep Learning · Computer Vision · NLP/LLMs · Full Stack AI
+  ├── building    : Production-ready AI systems from real-world datasets
+  ├── frameworks  : PyTorch · LangChain · HuggingFace · FastAPI · React
+  └── available   : Open to AI/ML Engineering & GenAI roles
+```
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something cool together 🚀")
+I build AI systems end-to-end — from data collection and model training to deployment with real interfaces. Most of my projects start with a problem, not a tutorial dataset.
+
+---
+
+## Projects
+
+> Things I've built that I'm proud of.
+
+| | Project | What it does | Stack |
+|---|---------|-------------|-------|
+| 🎯 | **[YOLOv11 Object Detection](https://github.com/vishal-04-singh/deep-learning-pytorch-projects)** | Custom detection on self-collected real-world images — not COCO, not ImageNet | YOLOv11 · PyTorch |
+| 🧑 | **[Face Recognition CNN](https://github.com/vishal-04-singh/deep-learning-pytorch-projects)** | Recognizes 91 real people with unknown-face rejection; self-collected dataset | PyTorch · MTCNN |
+| 🦁 | **Jaguar Re-Identification** | Wildlife re-ID using EfficientNet-B0 + ArcFace loss · **0.757 mAP · Rank #234** on Kaggle | PyTorch · ArcFace |
+| 🛡️ | **ReviewGuard AI** | NLP fake review detector · **94.8% accuracy** · Chrome extension + Flask API | NLP · Flask · Chrome |
+| 🤖 | **Multi-Tool ReAct Agent** | Agentic pipeline with tool-calling, memory, and planning via LangGraph | LangGraph · LangChain |
+| 📝 | **Noteblock** | Full-stack collaborative workspace · BlockNote editor · real-time sync | React 19 · Node · Prisma · PostgreSQL |
+| 🖼️ | **Image Captioning** | Caption generation with ResNet50 encoder + LSTM decoder on Flickr8k | PyTorch · ResNet50 |
+| 📈 | **LSTM Stock Predictor** | Time-series forecasting on financial data | PyTorch · LSTM |
+
+---
+
+## Tech
+
+```
+AI / ML ──────────────────────────────────────────────────────────
+  PyTorch       ████████████████████  expert
+  Computer CV   ████████████████░░░░  proficient    (YOLO · OpenCV · ArcFace)
+  NLP / LLMs    ███████████████░░░░░  proficient    (HuggingFace · LangChain)
+  scikit-learn  ██████████████░░░░░░  solid
+
+Full Stack ───────────────────────────────────────────────────────
+  React / JS    ████████████████░░░░  proficient
+  Node.js       ██████████████░░░░░░  solid
+  FastAPI       ███████████████░░░░░  solid
+  PostgreSQL    ████████████░░░░░░░░  comfortable
+
+Tools ────────────────────────────────────────────────────────────
+  Git · Linux · Google Colab · VS Code · Prisma · Docker (learning)
 ```
 
 ---
 
-### 🧠 Tech Stack
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Full Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎯 [YOLOv11 Object Detection](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | Custom object detection on **self-collected real-world images** | YOLOv11, PyTorch |
-| 🧑‍💻 [Face Recognition CNN](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | Face recognition on **self-collected dataset** of 91 people with unknown rejection | PyTorch, MTCNN |
-| 🖼️ [Image Captioning](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | Generates captions for images using ResNet50 + LSTM on Flickr8k | PyTorch, ResNet50 |
-| ✋ [Hand Landmark Detection](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | 21-keypoint hand pose estimation using CNN + LSTM on FreiHAND | PyTorch, CNN+LSTM |
-| 🔢 [MNIST CNN Classifier](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | Digit classification with **99.27% accuracy** + TensorBoard | PyTorch, CNN |
-| 📈 [LSTM Stock Predictor](https://github.com/vishal-04-singh/deep-learning-pytorch-projects) | Time series forecasting on synthetic stock data | PyTorch, LSTM |
-
----
-
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vishal-04-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=vishal-04-singh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-04-singh&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=7C3AED"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-04-singh&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-04-singh&theme=github-dark-blue&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED)
 
 </div>
 
 ---
 
-### 🌱 Currently Learning
+## Currently
 
-- 🤗 **LLMs & Prompt Engineering** — Fine-tuning transformer models
-- 🔍 **RAG Systems** — Building retrieval-augmented generation pipelines
-- 🚀 **MLOps** — Deploying ML models to production
+```python
+learning = [
+    "LLM fine-tuning and PEFT (LoRA, QLoRA)",
+    "RAG pipelines — retrieval-augmented generation from scratch",
+    "MLOps — model serving, monitoring, and versioning",
+]
+
+reading = "Attention Is All You Need — properly this time"
+
+next_project = "something with real cameras and real inference latency"
+```
 
 ---
 
-### 📫 Let's Connect
+## Let's talk
+
+I'm actively looking for roles in **AI/ML Engineering** and **GenAI Development**.
+If you're building something interesting, reach out.
 
 <div align="center">
 
-💼 Open to **AI/ML internships** and **collaboration on AI projects**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-04-singh)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectvishalsingh27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin/in/vishal--04--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-04-singh)
+[![Email](https://img.shields.io/badge/connectvishalsingh27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectvishalsingh27@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<sub>built with curiosity · trained on caffeine · deployed at 2am</sub>
 </div>
