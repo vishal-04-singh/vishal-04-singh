@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- Minimal Brand Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Vishal+Singh" alt="Name"/>
@@ -79,3 +79,4 @@ AI/ML internships where I can build production systems, not just notebooks.
 ---
 
 ## 🛠️ Arsenal
+](https://vishal-face-recognition.streamlit.app/)
