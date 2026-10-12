@@ -76,7 +76,7 @@ I'm especially interested in the intersection of **product experience, frontend 
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" alt="Git, GitHub, Figma, VS Code and Vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel" />
 
 </div>
 
